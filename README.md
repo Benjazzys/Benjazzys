@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjazzys or Benjamin
 - 👀 I’m interested in Gaming , Photography , Art , Music , Coding
-- 🌱 I’m currently learning C++ and English language
+- 🌱 I’m currently learning C++ , Javasrcipt , Python , React , Node.js and English language
 - 📫 How to reach me jaminfaro@gmail.com
 
 <!---
